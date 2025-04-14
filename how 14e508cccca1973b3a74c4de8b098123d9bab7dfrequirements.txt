@@ -1,0 +1,5 @@
+[33mcommit 14e508cccca1973b3a74c4de8b098123d9bab7df[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ImBarsik <guilhermedragon30@gmail.com>
+Date:   Sun Apr 13 22:51:02 2025 -0300
+
+    primeiro commit
